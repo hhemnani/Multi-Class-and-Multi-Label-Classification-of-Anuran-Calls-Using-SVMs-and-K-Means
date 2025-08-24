@@ -1,1 +1,2 @@
 # Multi-Class-and-Multi-Label-Classification-of-Anuran-Calls-Using-SVMs-and-K-Means
+This project applies multi-class and multi-label classification techniques to the Anuran Calls (MFCCs) dataset. We train Support Vector Machines (SVMs) with Gaussian kernels and L1-penalization, address class imbalance with SMOTE, and evaluate using metrics such as Exact Match Score and Hamming Loss. Additionally, K-Means clustering is performed with Monte Carlo simulations to analyze stability via Hamming Distance.
